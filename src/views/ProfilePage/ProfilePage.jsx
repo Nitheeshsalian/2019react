@@ -17,7 +17,7 @@ import HeaderLinks from "components/Header/HeaderLinks.jsx";
 import NavPills from "components/NavPills/NavPills.jsx";
 import Parallax from "components/Parallax/Parallax.jsx";
 import CustomTabs from "components/CustomTabs/CustomTabs.jsx";
-import profile from "assets/img/IMG_20181201_193612_651.jpg";
+import profile from "assets/img/03.jpeg";
 import CustomLinearProgress from "components/CustomLinearProgress/CustomLinearProgress.jsx";
 import SectionTypography from "../Components/Sections/SectionTypography.jsx";
 import work1 from "assets/img/Image-result-for-aws-logo-png.png";
@@ -107,7 +107,7 @@ class ProfilePage extends React.Component {
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
-                                value={70}
+                                value={80}
                               />
                             </div>
 
@@ -116,7 +116,7 @@ class ProfilePage extends React.Component {
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
-                                value={80}
+                                value={70}
                               />
                             </div>
 
@@ -125,7 +125,7 @@ class ProfilePage extends React.Component {
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
-                                value={85}
+                                value={40}
                               />
                             </div>
 
@@ -143,7 +143,7 @@ class ProfilePage extends React.Component {
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
-                                value={30}
+                                value={70}
                               />
                             </div>
 
@@ -152,12 +152,12 @@ class ProfilePage extends React.Component {
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
-                                value={75}
+                                value={70}
                               />
                             </div>
 
                             <div>
-                              <div style={{ display: "flex", flexDirection: "row" }}>Redux</div>
+                              <div style={{ display: "flex", flexDirection: "row" }}>AzureDevOps</div>
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
@@ -179,7 +179,7 @@ class ProfilePage extends React.Component {
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
-                                value={49}
+                                value={60}
                               />
                             </div>
 
@@ -188,7 +188,7 @@ class ProfilePage extends React.Component {
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
-                                value={65}
+                                value={75}
                               />
                             </div>
 

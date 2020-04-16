@@ -29,6 +29,42 @@ class SectionTypography extends React.Component {
               <h2>Work</h2>
             </div>
             <GridContainer>
+            <div className={classes.typo}>
+                <div className={classes.note}>TriveWealth</div>
+                <ul>
+                  <li>Wealth management system.</li>
+                  <li>Developed app using React-Native for both IOS and Android.</li>
+                  <li>Implemented Redux dataflow in Web and Mobile-APP.</li>
+                  <li>API deep integrations with both platforms.</li>
+                  <li>FireBase integration for notifications</li>
+                  <li>AzureDevOps for (git) verison controlling and CD/CI pipelines.</li>
+                  <li>Appcenter setup for app testing.</li>
+                  <li>Integrated with Redux Saga for API handlers in Web and Mobile-APP.</li>
+                  <li>Improved user experience through technical way such like reducing code base, reducing http requests, and compatibility with each platform. </li>
+                  <li>Builded reusable and maintainable components base on React Native and React.</li>
+                </ul>
+
+              </div>
+            <div className={classes.typo}>
+                <div className={classes.note}>IonAssist</div>
+                <ul>
+                  <li>Developed to eliminate on-site failure, ION ASSIST ensures your team has unprecedented access to your technical and delivery support resources.</li>
+                  <li>Developed app using React-Native for both IOS and Android.</li>
+                  <li>Implemented Redux dataflow in Web and Mobile-APP.</li>
+                  <li>API deep integrations with both platforms.</li>
+                  <li>Used agora for one to one video calling.</li>
+                  <li>FireBase integration for realtime chats and notifications</li>
+                  <li>AzureDevOps for (git) verison controlling and CD/CI pipelines.</li>
+                  <li>Appcenter setup for app testing.</li>
+                  <li>Integrated with Redux Saga for API handlers in Web and Mobile-APP.</li>
+                  <li>Improved user experience through technical way such like reducing code base, reducing http requests, and compatibility with each platform. </li>
+                  <li>Builded reusable and maintainable components base on React Native and React.</li>
+                  <li>Diagnosed and fixed bugs and performance bottlenecks for performance that feels native.</li>
+                  <li>Implement the server side with Node.js, Express.js and MongoDB</li>
+                  <li>Handling the back-end in the process of building the RESTful API</li>
+                </ul>
+
+              </div>
               <div className={classes.typo}>
                 <div className={classes.note}>MobileOffize</div>
                 <ul>
@@ -36,12 +72,14 @@ class SectionTypography extends React.Component {
                   <li>Developed Web in React JS.</li>
                   <li>Developed app using React-Native.</li>
                   <li>Implemented Redux dataflow in Web and Mobile-APP.</li>
+                  <li>FireBase integration for realtime chats and notifications</li>
+                  <li>AzureDevOps for (git) verison controlling and CD/CI pipelines.</li>
+                  <li>Appcenter setup for app testing.</li>
                   <li>Integrated with Redux Saga for API handlers in Web and Mobile-APP.</li>
                   <li>Improved user experience through technical way such like reducing code base, reducing http requests, and compatibility with each platform. </li>
-                  <li>API deep integrations with both platforms.</li>
                   <li>Builded reusable and maintainable components base on React Native and React.</li>
                   <li>Diagnosed and fixed bugs and performance bottlenecks for performance that feels native.</li>
-                  <li>Implement the server side rendering with Node.js, Express.js and Node Js</li>
+                  <li>Implement the server side with Node.js, Express.js and MongoDB</li>
                   <li>Handling the back-end in the process of building the RESTful API</li>
                 </ul>
 
