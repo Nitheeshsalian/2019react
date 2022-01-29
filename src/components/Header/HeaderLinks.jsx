@@ -30,7 +30,7 @@ function HeaderLinks({ ...props }) {
           classes={{ tooltip: classes.tooltip }}
         >
           <Button
-            href="https://github.com/nitheeshskiploop"
+            href="https://github.com/nitheeshsalian"
             target="_blank"
             color="transparent"
             className={classes.navLink}

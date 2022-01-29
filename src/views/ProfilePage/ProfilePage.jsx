@@ -37,7 +37,7 @@ class ProfilePage extends React.Component {
       <div>
         <Header
           color="transparent"
-          brand="Nitheesh Salian"
+          brand="Nitheesh Saliyan"
           rightLinks={<HeaderLinks />}
           fixed
           changeColorOnScroll={{
@@ -73,7 +73,7 @@ class ProfilePage extends React.Component {
                       <img src={profile} alt="..." className={imageClasses} />
                     </div>
                     <div className={classes.name}>
-                      <h1 className={classes.title}>NITHEESH SALIAN</h1>
+                      <h1 className={classes.title}>NITHEESH SALIYAN</h1>
                       <h3>Software Developer</h3>
                       {/* <Button justIcon link className={classes.margin5}>
                         <i className={"fab fa-twitter"} />
@@ -90,7 +90,8 @@ class ProfilePage extends React.Component {
               </GridContainer>
               <div className={classes.description}>
                 <p>
-                  Experienced Software Developer. Currently working in Skiploop Labs Pvt Ltd. Skilled in React-Native, React Js, Angular Js, Node Js, MongoDb, Css and HTML. My role includes taking ownership of the products, developing and updating them. Focused on newest web technologies..{" "}
+                  Experienced Software Developer working in Accenture as Application Development Senior Analyst. Passionate about new technologies learning and building with it. Experienced in all aspects of all software development lifecycle. Able to learn new things quickly and excellent analytical and problem solving skills.
+Collaborating in teams and brainstorming for solutions. Also mentoring subordinates and involving in code reviews for better code quality across the projects. Product performance enhancement and quality assurance...{" "}
                 </p>
               </div>
               <GridContainer justify="center">
@@ -103,7 +104,7 @@ class ProfilePage extends React.Component {
                         tabContent: (
                           <p className={classes.textCenter}>
                             <div>
-                              <div style={{ display: "flex", flexDirection: "row" }}>React-Native</div>
+                              <div style={{ display: "flex", flexDirection: "row" }}>React Js</div>
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
@@ -112,7 +113,7 @@ class ProfilePage extends React.Component {
                             </div>
 
                             <div>
-                              <div style={{ display: "flex", flexDirection: "row" }}>React JS</div>
+                              <div style={{ display: "flex", flexDirection: "row" }}>React Native</div>
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
@@ -139,7 +140,7 @@ class ProfilePage extends React.Component {
                             </div>
 
                             <div>
-                              <div style={{ display: "flex", flexDirection: "row" }}>Redux</div>
+                              <div style={{ display: "flex", flexDirection: "row" }}>Spring Boot</div>
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
@@ -148,7 +149,7 @@ class ProfilePage extends React.Component {
                             </div>
 
                             <div>
-                              <div style={{ display: "flex", flexDirection: "row" }}>Redux-Saga</div>
+                              <div style={{ display: "flex", flexDirection: "row" }}>Jenkins</div>
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
@@ -170,12 +171,12 @@ class ProfilePage extends React.Component {
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
-                                value={35}
+                                value={65}
                               />
                             </div>
 
                             <div>
-                              <div style={{ display: "flex", flexDirection: "row" }}>TypeScript</div>
+                              <div style={{ display: "flex", flexDirection: "row" }}>Cassandra DB</div>
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
@@ -184,7 +185,7 @@ class ProfilePage extends React.Component {
                             </div>
 
                             <div>
-                              <div style={{ display: "flex", flexDirection: "row" }}>JavaScript</div>
+                              <div style={{ display: "flex", flexDirection: "row" }}>Agile Methodologies </div>
                               <CustomLinearProgress
                                 variant="determinate"
                                 color="success"
@@ -226,7 +227,7 @@ class ProfilePage extends React.Component {
                   <GridContainer justify="center">
                     <GridItem xs={12} sm={12} md={8}>
                       <h2>Contact</h2>
-                      <h4>#26 Behind Pepper's Restaurant, Sri Ram temple road Ejipura Bengaluru - 560097</h4>
+                      <h4>#3/333 Sri Krishna Nilaya Shankarpura Udupi Karnataka India- 574115</h4>
                       <h4>+91 8197803551             </h4>
                       <h4>nitheeshsalian@gmail.com</h4>
                     </GridItem>
